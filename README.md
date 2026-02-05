@@ -4,12 +4,12 @@ Welcome to my digital workshop. I'm a homelab enthusiast focusing on self-hostin
 
 ## 🏗️ Core Projects
 
-### 🧠 [Instructions](https://github.com/punkpar/instructions)
+### 🧠 [Instructions]
 My "Source of Truth" for AI development. This repository hosts global and project-specific instructions (system prompts) that guide my local LLMs (Qwen, Gemma) and Copilot agents.
 - **Syncing**: Automated via Meshnet to all nodes.
 - **Scope**: Docker, Python, Infrastructure setup.
 
-### 🛠️ [Homelab Scripts](https://github.com/punkpar/scripts)
+### 🛠️ [Homelab Scripts]
 The glue that holds my lab together.
 - **Infrastructure**: SSH configs, Network tuning.
 - **Automation**: Backup scripts, Sync tools, Dashboard servers.
@@ -21,4 +21,4 @@ The glue that holds my lab together.
 - **Services**: Docker-based Media Stack (`servarr`), Local LLM Inference (`llama-server`, `Ollama`)
 
 ---
-*Driven by locally hosted AI and coffee ☕*
+
