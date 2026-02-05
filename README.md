@@ -20,8 +20,5 @@ The glue that holds my lab together.
 - **Compute**: Ryzen 7600 (Windows 11 AI Host), M75q (Linux Workstation)
 - **Services**: Docker-based Media Stack (`servarr`), Local LLM Inference (`llama-server`, `Ollama`)
 
-## 🌱 Forks & Contributions
-- **[Termius RPM](https://github.com/punkpar/termius-rpm)**: Packaging Termius for Fedora/RHEL.
-
 ---
 *Driven by locally hosted AI and coffee ☕*
