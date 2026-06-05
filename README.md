@@ -1,25 +1,30 @@
-Hi, I'm Ben.
+# 👋 Hi, I'm Ben
 
-I believe in taking back control. Of our infrastructure. Of our data. Of our relationship with the technology we use every day.
+Self-taught homelabber. Self-hosted AI enthusiast.
 
-Every closed platform is a leash. Every proprietary API is a landlord. I build things locally, own my data, and keep my infrastructure on hardware I can touch. That's the homelab ethos, and it's how I think about almost everything I do.
+I've been taking things apart since the ZX Spectrum showed up at our house when I was five. Decades later I'm still the one who gets called when someone's PC dies or their dad needs a new build.
 
-I run llama.cpp with TurboQuant+ on consumer GPUs because the best AI is the one you control. Not the one you rent from a company that reads your conversations, sets the rules, and can change the terms whenever they like. I don't need a 100B parameter model to be useful. I need models I can run, audit, and understand. Local AI isn't a downgrade. It's the upgrade.
+A year ago I turned that hobby into a proper homelab. Twelve months in I've got a multi-device LAN of older but very capable tech. There's a roadside dumped PC in the mix, plus a few CEX bargain bin components from before the memory crisis hit. Proxmox, Home Assistant, my own domain, secure remote access. The whole thing runs as a complete Docker stack.
 
-I'm against generative AI for art and culture. Art is human. Music is human. Creativity isn't a prompt. It's a lived experience, and no amount of training data replaces the weird, specific, irreplaceable thing that happens when a real person makes something. I won't use AI to replace artists, musicians, or creators, and I think the people building tools that do are selling a counterfeit version of creativity. That's not progress, it's theft with better marketing.
+Half the fun is breaking it. Sometimes it's 1 step forward and 2 steps back, but failure is the only way I learn. I document the broken parts so the next person can skip them.
 
-But I do believe in AI as a tool. A homelab dashboard that alerts you before your backups fail. A voice assistant that controls your lights without phoning home to some corporation's cloud. A model that helps you understand a codebase without sending your code to someone else's server. That's AI worth building. The goal isn't to automate humanity out of the loop. It's to give people tools that amplify what they already do well.
+The bit I'm most proud of: I spent the first six months building it all by hand. No AI agents, no Copilot autocomplete, no shortcuts. Just YouTube tutorials, GitHub issues, and strangers in forums who didn't owe me anything. I wanted to understand the stack, not just inherit it.
 
-What I build:
+Around the six-month mark, I started letting AI into the workflow. I've gone a bit mad with it: agentic systems, local LLMs, self-hosted inference on my own GPUs. I'm building toward digital sovereignty. Cutting the cord from a monthly AI subscription the same way I cut the cord from Netflix.
 
-- **llama.cpp TurboQuant+** is my main project. A fork of llama.cpp with TurboQuant+ KV cache quantization, 328 upstream commits merged, running on consumer RTX 4070 and RTX 3050 hardware. No API keys. No subscriptions. No telemetry. Just local inference on machines I own.
-- **Homelab** is the broader infrastructure project. Docker-based media stack, AI inference, automation, backups, all self-hosted, all auditable, all mine.
-- **Instructions** is where I keep system prompts and configurations for my local LLMs. Because your AI should know your context, not some corporation's.
+There's a tension I want to name openly. I'm wary of what generative AI is doing to creative industries, and I won't use it to replace human craft. But I don't think the answer is to reject the tool outright. The open-source community is so close to proving you can run serious, capable models on your own hardware, under your own control. We don't have to choose between capability and conscience.
 
-My philosophy is simple. The best technology is the kind you own. Not rent. Not subscribe to. Own. Self-hosted when possible. Open source when available. Local by default. Human creativity is irreplaceable. AI should assist, not replace.
+The public conversation about generative AI is loud and polarized. My take is simpler: it's nuanced. You can use this technology ethically, you just have to choose to. It's a groundbreaking tool, but it's still just a tool. What you build with it is the part that matters.
 
-A homelab is the best classroom I've ever had. I didn't learn networking from a textbook. I learned it by watching my SSH tunnels break and figuring out why. I didn't learn Docker from a bootcamp. I learned it by staring at a busted compose file until the health checks turned green. Every broken backup script, every failed VPN connection, every time a container mysteriously died at 3am taught me something a course never could. The skills you build when you're the one who has to fix the system at midnight stay with you. They're not theoretical, and they don't expire. If you want to learn how computers actually work, build one of these. Break things. Fix them. Read the logs. Read them again. You'll come out the other side knowing more than any certificate can give you.
+---
 
-My lab runs across a few machines. ryzen7600 is the AI inference host with an RTX 4070. servarr is the media and Docker workhorse. n100 is the always-on backbone running the MCP gateway. proxmox handles virtualization. m75q is my workstation. They're all consumer hardware, all running open source, all mine.
+DMs are open if you want to talk shop about homelabs, self-hosted inference, or how to keep your hands on the steering wheel while the world argues about who should be driving.
 
-If you want to build this stuff too, you can. That's the whole point.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=punkpar&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=punkpar&theme=tokyonight&hide_border=true" height="165" alt="Streak stats" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=punkpar&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+</p>
