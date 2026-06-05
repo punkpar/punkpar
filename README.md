@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ben
 
-Self-taught homelabber. Self-hosted AI enthusiast.
+Self-taught homelabber. Local AI enthusiast
 
-I've been taking things apart since the ZX Spectrum showed up at our house when I was five. Decades later I'm still the one who gets called when someone's PC dies or their dad needs a new build.
+I've been tinkering with code when the ZX Spectrum showed up at our house when I was five. Decades later I'm still the one who gets called when someone's PC dies or their dad needs a new build.
 
 A year ago I turned that hobby into a proper homelab. Twelve months in I've got a multi-device LAN of older but very capable tech. There's a roadside dumped PC in the mix, plus a few CEX bargain bin components from before the memory crisis hit. Proxmox, Home Assistant, my own domain, secure remote access. The whole thing runs as a complete Docker stack.
 
