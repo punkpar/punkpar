@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ben
+# 👋 Hi!
 
 Self-taught homelabber. Local AI enthusiast
 
