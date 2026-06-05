@@ -18,6 +18,8 @@ What I build:
 
 My philosophy is simple. The best technology is the kind you own. Not rent. Not subscribe to. Own. Self-hosted when possible. Open source when available. Local by default. Human creativity is irreplaceable. AI should assist, not replace.
 
+A homelab is the best classroom I've ever had. I didn't learn networking from a textbook. I learned it by watching my SSH tunnels break and figuring out why. I didn't learn Docker from a bootcamp. I learned it by staring at a busted compose file until the health checks turned green. Every broken backup script, every failed VPN connection, every time a container mysteriously died at 3am taught me something a course never could. The skills you build when you're the one who has to fix the system at midnight stay with you. They're not theoretical, and they don't expire. If you want to learn how computers actually work, build one of these. Break things. Fix them. Read the logs. Read them again. You'll come out the other side knowing more than any certificate can give you.
+
 My lab runs across a few machines. ryzen7600 is the AI inference host with an RTX 4070. servarr is the media and Docker workhorse. n100 is the always-on backbone running the MCP gateway. proxmox handles virtualization. m75q is my workstation. They're all consumer hardware, all running open source, all mine.
 
 If you want to build this stuff too, you can. That's the whole point.
